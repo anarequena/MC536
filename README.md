@@ -1,6 +1,4 @@
-#[Trabalho 1 MC504] (http://www.ic.unicamp.br/~islene/1s2017-mc504/proj1.html)
-
-O Chamys fez esse belo README no trabalho do Borin e estou copiando aqui, porque é muito útil pra lembrar coisas do git que eu esqueço (Algumas coisas estavam erradas, mas nada demais e não lembro onde)
+#[MC356] (https://github.com/anarequena/MC536.git)
 
 Um mini-tutorial está em baixo, mas tem um guia básico que parece interessante de se ler: [Git - The Simple Guide] (http://rogerdudler.github.io/git-guide/).
 
