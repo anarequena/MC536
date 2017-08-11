@@ -1,4 +1,4 @@
-# [Link para trabalho aqui](https://www.github.com/mrtheduts/readmegit)
+# [MC536](https://drive.google.com/file/d/0B0pg3lMUD6WmckptTXExeHA5OTQ/view)
 
 
  <img align = "left" src=https://octodex.github.com/images/baracktocat.jpg width="190" height="190"  hspace="20" vspace="5" alt="Octocat">
@@ -22,8 +22,8 @@ Há duas maneiras de configurar uma pasta de um repositório git:
 
 1. Criar uma pasta vazia/aproveitar uma pasta já existente
 2. Entrar nela e inicializar o git : `$ git init`
-3. Realizar o pull request: `$ git pull https://github.com/usuario/repositorio`
-4. É preciso configurar o endereço do repositório: `$ git remote add origin https://github.com/user/repo`
+3. Realizar o pull request: `$ git pull https://github.com/anarequena/MC536.git`
+4. É preciso configurar o endereço do repositório: `$ git remote add origin https://github.com/anarequena/MC536.git`
    >Se enfrentar problemas para lidar com o endereço de origin, veja **Comandos**
 5. Criar um branch pra você/sua implementação: `$ git checkout -b Nome`
 6. Dar push no branch: `$ git push origin Nome`
@@ -31,7 +31,7 @@ Há duas maneiras de configurar uma pasta de um repositório git:
 
 ou
 
-1. Clonar: `$ git clone https://github.com/usuario/repositorio`
+1. Clonar: `$ git clone https://github.com/anarequena/MC536.git`
 2. Ir até a pasta e criar um branch pra você/implementação: `$ git checkout -b Nome`
 3. Dar push no branch: `$ git push origin Nome`
 4. **Codar hardmente**
@@ -57,8 +57,8 @@ ou
 ### Lidando com `git remote`
  - Para verificar qual o endereço do repositório: `$ git remote -v`
  - Para adicionar o endereço do repositório:
-   - Com https: `$ git remote add origin https://github.com/user/repo.git`
-   - Com ssh: `$ git remote add origin ssh:git@github.com/user/repo.git`
+   - Com https: `$ git remote add origin https://github.com/anarequena/MC536.git`
+   - Com ssh: `$ git remote add origin ssh:git@github.com/anarequena/MC536.git`
  - Para remover o endereço do repositório: `$ git remote remove origin`
 
 ### Usando Tags
